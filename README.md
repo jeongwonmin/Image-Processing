@@ -18,6 +18,6 @@
 内部と外部の2乗誤差の和を少なくするんだな…という雰囲気しかわかんなかったんですけど、
 一応論文リンクします。
 
-[1] T.Chan, L.Vese, Active Contours Without Edges, IEEE Trans. IMAGE PROCESSING, Vol. 10, No. 2, 2001.
+[1] [T.Chan, L.Vese, Active Contours Without Edges, IEEE Trans. IMAGE PROCESSING, Vol. 10, No. 2, 2001.](http://www.math.ucla.edu/~lvese/PAPERS/IEEEIP2001.pdf)
 
 [2] kevin-keraudrenさんのGitHub https://github.com/kevin-keraudren/chanvese
