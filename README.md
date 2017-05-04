@@ -7,3 +7,6 @@
 + Python 3.x
 + OpenCV 3.2
 + NumPy, SciPy, matplotlib
+
+## 遊び方
+`python opencv-mouse.py`
