@@ -9,7 +9,7 @@
 + NumPy, SciPy, matplotlib
 
 ## 遊び方
-`python opencv-mouse.py`
+`python opencv_mouse.py`
 したら絵が立ち上がります。そこに長方形を描いてください。
 そしてsキーを押すと、segmentationしてくれます。
 
