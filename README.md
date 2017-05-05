@@ -9,9 +9,17 @@
 + NumPy, SciPy, matplotlib
 
 ## 遊び方
+### Segmentation
 `python opencv_mouse.py`
 したら絵が立ち上がります。そこに長方形を描いてください。
 そしてsキーを押すと、segmentationしてくれます。
+
+### Filter
+`python opencv_mouse_filter.py`
+して立ち上げます。Segmentationと同じく、マウスで長方形を描きます。
++ aキー:輪郭を抜き出します。Sobelフィルタの勾配です。
++ sキー:モザイクします。嫌な人、嫌いな食べ物をどんどんモザイクしましょう。きゅうりが嫌いな人のための「きゅうりモザイク」にもいいでしょうw
++ cキー:今までのお遊びをすべてクリアします。
 
 ## 参考文献
 マジわかんなかったんですけど…
